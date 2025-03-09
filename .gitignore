@@ -509,3 +509,5 @@ build/
 linux/build/
 
 
+#xmake
+.xmake/

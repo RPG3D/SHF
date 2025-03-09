@@ -1,0 +1,12 @@
+{
+    "configurations": [
+    {
+        "type": "xmake",
+        "request": "launch",
+        "name": "Launch jxqy2",
+        "target": "jxqy2",
+        "cwd": "${workspaceFolder}/build/windows",
+        "stopAtEntry": true
+    }
+    ]
+}

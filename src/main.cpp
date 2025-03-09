@@ -21,7 +21,7 @@ int main(int argc, char* argv[])
 }
 int SDL_main(int argc, char* argv[])
 #elif defined(_WIN32) && !defined(_DEBUG)
-int SDL_main(int argc, char* argv[])
+int main(int argc, char* argv[])
 #else
 int main(int argc, char* argv[])
 #endif
